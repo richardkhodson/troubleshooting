@@ -16,6 +16,6 @@
     position:relative;
     z-index:2;
 }
-#fruit-name {
-    color: blue;
+.fruit-name {
+    color: red;
 }
