@@ -16,6 +16,19 @@
     position:relative;
     z-index:2;
 }
-.fruit-name {
-    color: red;
+.fruit-name1, .fruit-name2, .fruit-name3
+{
+    background-color: cadetblue;
+    border-radius: 10px;
+    padding: 4px;
+    padding-left: .5em;
+}
+.fruit-name1 {
+       color: red;
+}
+.fruit-name2 {
+        color: orange;
+}
+.fruit-name3 {
+        color: yellow;
 }
